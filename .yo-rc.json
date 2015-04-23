@@ -1,0 +1,10 @@
+{
+  "generator-gulpplugin-coffee": {
+    "githubUser": "SuneBear",
+    "pluginName": "ejsmin",
+    "appname": "gulp-ejsmin",
+    "realname": "Shule Xiong",
+    "email": "hi@sunebear.com",
+    "homepage": "http://sunebear.com"
+  }
+}
